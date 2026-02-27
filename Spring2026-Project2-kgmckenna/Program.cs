@@ -29,7 +29,6 @@ else
 }
 
 app.UseHttpsRedirection();
-app.UseHttpsRedirection();
 app.UseDefaultFiles();
 app.UseStaticFiles();
 app.UseRouting();
